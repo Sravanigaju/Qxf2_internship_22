@@ -8,4 +8,9 @@
     - Basics of Software Testing
     - I learnt some basics of software testing 
     - I picked a web application amazon and I tested the application
-    - prepared for presentation    
+    - prepared for presentation  
+
+    Day 3
+    - I have presented a web application which i picked for testing
+    - I have started learning basics of Git and Github
+
