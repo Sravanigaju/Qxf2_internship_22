@@ -14,3 +14,8 @@
     - I have presented a web application which i picked for testing
     - I have started learning basics of Git and Github
 
+    Day 4
+    - I have been working on the basics of Git and Github
+    - I updated trello cards
+    - I Learnt some basic commands in Git
+
