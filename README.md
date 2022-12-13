@@ -19,3 +19,11 @@
     - I updated trello cards
     - I Learnt some basic commands in Git
 
+    Day 5
+    - I updated all the day works in the git hub
+    - I created linkedin profile 
+    - I created resume
+    
+
+
+
