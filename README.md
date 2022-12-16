@@ -28,6 +28,9 @@
     - I  have updated day5 work in the git hub
     - I  have been working on basics of python
     
+    Day 7
+    - I have been learning basics of python and started practising 
+    - I updated day 6 work in the git hub
     
 
 
