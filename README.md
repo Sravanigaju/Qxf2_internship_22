@@ -36,6 +36,12 @@
     - I updated day 7 work in the github
     - I have been practising python simple codes in vs code
     
+    DAY 9
+    - I have updated day8 work in the github
+    - i have forked a repository from Qxf2
+    - started working on challenges
+    - cleared the challenges by fixing the errors
+    
 
 
 
