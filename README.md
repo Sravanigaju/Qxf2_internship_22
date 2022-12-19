@@ -32,6 +32,10 @@
     - I have been learning basics of python and started practising 
     - I updated day 6 work in the git hub
     
+    Day 8
+    - I updated day 7 work in the github
+    - I have been practising python simple codes in vs code
+    
 
 
 
