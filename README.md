@@ -42,6 +42,9 @@
     - started working on challenges
     - cleared the challenges by fixing the errors
     
+    Day 10
+    - I have updated day9 task in the repository
+    - Working on the task Explore HTML CSS and DOM
 
 
 
