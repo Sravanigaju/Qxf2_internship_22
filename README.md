@@ -44,7 +44,11 @@
     
     Day 10
     - I have updated day9 task in the repository
-    - Working on the task Explore HTML CSS and DOM
+    - working on the task Explore HTML CSS and DOM
 
+
+    Day11
+    - I have updated day10 task in the repository
+    - I have beem working on the task Explore HTML CSS and DOM
 
 
