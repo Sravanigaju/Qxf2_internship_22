@@ -51,4 +51,7 @@
     - I have updated day10 task in the repository
     - I have beem working on the task Explore HTML CSS and DOM
 
-
+    Day12
+    - I have updated day11 task in the repository 
+    - Learnt about HTML and basics of CSS and DOM
+    
