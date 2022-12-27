@@ -56,5 +56,8 @@
     - Learnt about HTML and basics of CSS and DOM by using these links
     - https://www.youtube.com/watch?v=a8W952NBZUE
     -
-    -
- 
+    - Day13
+    - updated my day 12 activity in  the repository
+    - reworked on the topic how to create a new branch and learnt what is main and master branch
+    
+    - 
