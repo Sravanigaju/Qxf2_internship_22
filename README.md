@@ -59,5 +59,10 @@
     - Day13
     - updated my day 12 activity in  the repository
     - reworked on the topic how to create a new branch and learnt what is main and master branch
-    
+
+    Day14
+    - updated my day 12 activity in the repository
+    - started working on the task Learn X-Path and CSS Selectors by reading Qxf2 blogs 
+    - https://qxf2.com/blog/getting-started-with-xpaths/
+
     - 
