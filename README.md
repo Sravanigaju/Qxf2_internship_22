@@ -49,9 +49,20 @@
 
     Day11
     - I have updated day10 task in the repository
-    - I have beem working on the task Explore HTML CSS and DOM
+    - I have been working on the task Explore HTML CSS and DOM
 
     Day12
     - I have updated day11 task in the repository 
-    - Learnt about HTML and basics of CSS and DOM
-    
+    - Learnt about HTML and basics of CSS and DOM by using these links
+    - https://www.youtube.com/watch?v=a8W952NBZUE
+    -
+    - Day13
+    - updated my day 12 activity in  the repository
+    - reworked on the topic how to create a new branch and learnt what is main and master branch
+
+    Day14
+    - updated my day 12 activity in the repository
+    - started working on the task Learn X-Path and CSS Selectors by reading Qxf2 blogs 
+    - https://qxf2.com/blog/getting-started-with-xpaths/
+
+    - 
