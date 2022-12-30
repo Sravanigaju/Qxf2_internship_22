@@ -67,6 +67,7 @@
 
     Day15
     - updated day14 work in the repository
-    - Learnt X-path and practised it.
-
-     
+    - Learnt X-path and practised it.   
+    Day16
+    - updated day15 work in the repository
+    - worked on the topic Learn CSS Selectors.
