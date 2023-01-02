@@ -71,3 +71,6 @@
     Day16
     - updated day15 work in the repository
     - worked on the topic Learn CSS Selectors.
+    Day16
+    - updated day16 work in to the repository.
+    - learnt CSS selectors.
