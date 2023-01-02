@@ -71,3 +71,7 @@
     Day16
     - updated day15 work in the repository
     - worked on the topic Learn CSS Selectors.
+    Day17
+    - updated day16 work in to the repository.
+    - Learnt CSS selectors by referring Qxf2 blog
+    - https://qxf2.com/blog/how-to-write-css-selectors/
