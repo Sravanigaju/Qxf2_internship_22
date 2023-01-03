@@ -75,3 +75,7 @@
     - updated day16 work in to the repository.
     - Learnt CSS selectors by referring Qxf2 blog
     - https://qxf2.com/blog/how-to-write-css-selectors/
+    Day18
+    - updated day17 work in to the repository.
+    - Learnt what is virtual environment.
+    - learnt how to create virtual environment in python. 
