@@ -79,3 +79,8 @@
     - updated day17 work in to the repository.
     - Learnt what is virtual environment.
     - learnt how to create virtual environment in python. 
+    Day19
+    - updated day18 work in to the repository.
+    - Worked on the task Explore Selenium
+    - Learnt what is selenium why it is used and 
+    - why do we need automation testing.
