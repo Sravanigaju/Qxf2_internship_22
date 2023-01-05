@@ -85,8 +85,7 @@
     - Learnt what is selenium why it is used and 
     - why do we need automation testing.
     Day20
-    - updated *day19* work in to the repository
-    - Learnt about *Selenium*
-    - Learnt how to test a web application using Selenium a
-    - as an automation tool
+    - updated **day19** work in to the repository
+    - Learnt about **Selenium**
+    - Learnt how to test a webapplications using selenium as automation tool.
     
