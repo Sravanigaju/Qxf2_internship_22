@@ -92,7 +92,9 @@
     - updated *Day20* work in to the GitHub
     - I picked a web application https://www.facebook.com/ and tried writing Scripts on this.
     - Practised writing Scripts on other web applications like https://ksrtc.in/oprs-web/.
-    - 
+    - I tested this https://www.facebook.com/ web application wheather login page is working or 
+    not by using Selenium Scripts.
+    - I tested this https://ksrtc.in/oprs-web/ application weather i can able to search  for the bus after filling the requirements to search for the bus by using Selenium.
   
    
 
