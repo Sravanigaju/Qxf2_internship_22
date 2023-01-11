@@ -95,7 +95,11 @@
     - I tested this https://www.facebook.com/ web application wheather login page is working or 
     not by using Selenium Scripts.
     - I tested this https://ksrtc.in/oprs-web/ application weather i can able to search  for the bus after filling the requirements to search for the bus by using Selenium.
-  
+  - Day22
+  - updated **Day21** work in to the repository.
+  - forked **qxf2/selenium-beginners** repository.
+  - picked a differnt websites and started clearing exercises.
+  -  
    
 
      
