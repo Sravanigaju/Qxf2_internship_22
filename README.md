@@ -102,17 +102,12 @@
   - Day23
   - Updated **Day22** Work in to the Repository.
   - Started Learning Python from Scratch.
-  - By using this link https://futurecoder.io/course/#toc.
-  - Topics Larnt:
-**  **- The Shell
-  - Introducing The Shell
-  - Navigating shell
-  - Introducing Strings
-  - Adding Strings
-  - Introducing Variables
-  - Using Variables and print().** ** 
-  
-   
-
-     
-    
+  - By using this link **https://futurecoder.io/course/#toc**.
+  - Topics Learnt:
+  - **The Shell**
+  -**Introducing The Shell**
+  -**Navigating Shell History**
+  -**Introducing srtings**
+  -**Adding Strings**
+  -**Introducing Variables**
+  -**Using variables and Print()**  
