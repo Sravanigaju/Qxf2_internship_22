@@ -94,13 +94,20 @@
     - Practised writing Scripts on other web applications like https://ksrtc.in/oprs-web/.
     - I tested this https://www.facebook.com/ web application wheather login page is working or 
     not by using Selenium Scripts.
-    - I tested this https://ksrtc.in/oprs-web/ application weather i can able to search  for the bus after filling the requirements to search for the bus by using Selenium.
-  - Day22
-  - updated **Day21** work in to the repository.
+    - I tested this https://ksrtc.in/oprs-web/ application weather i can able to search  for the bus after filling the requirements to search for the bus by using Selenium
+  - **Day22**
+  - updated Day21 work in to the repository.
   - forked **qxf2/selenium-beginners** repository.
   - picked a differnt websites and started clearing exercises.
-  -  
-   
-
-     
-    
+  - **Day23**
+  - Updated day22 Work in to the Repository.
+  - Started Learning Python from Scratch.
+  - By using this link **https://futurecoder.io/course/#toc**.
+  - Topics Learnt:
+  - **The Shell**
+  -**Introducing The Shell**
+  -**Navigating Shell History**
+  -**Introducing srtings**
+  -**Adding Strings**
+  -**Introducing Variables**
+  -**Using variables and Print()**  
