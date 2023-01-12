@@ -99,7 +99,19 @@
   - updated **Day21** work in to the repository.
   - forked **qxf2/selenium-beginners** repository.
   - picked a differnt websites and started clearing exercises.
-  -  
+  - Day23
+  - Updated **Day22** Work in to the Repository.
+  - Started Learning Python from Scratch.
+  - By using this link https://futurecoder.io/course/#toc.
+  - Topics Larnt:
+**  **- The Shell
+  - Introducing The Shell
+  - Navigating shell
+  - Introducing Strings
+  - Adding Strings
+  - Introducing Variables
+  - Using Variables and print().** ** 
+  
    
 
      
