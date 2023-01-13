@@ -114,26 +114,26 @@
 
     **#Day24**
 
-         -Updated Day23 work in to the Github Repository.  
-         -Made Github Repositories to _Public_   
-         -Created _Resume_ in Github.    
-         -Continued to learn the python course.  
-         -Topics Learnt:  
-         -Writing Programs  
-         -Storing Calculations In Variables  
-         -**For Loops**  
-         -Introducing For Loops  
-         -Indentation  
-         -Basic For Loop Exercises  
-         -Building Up Strings  
-         -Building Up Strings Exercises 
-         -Basic Terminology  
-         -**If Statements**   
-         -Introducing If Statements   
-         -Combining Compound Statements    
-         -Understanding Programs With snoop  
-         -if and else  
-         -The Equality Operator  
-         -Introducing elif   
-         -Other Comparison Operators  
+      -Updated Day23 work in to the Github Repository.  
+      -Made Github Repositories to _Public_   
+      -Created _Resume_ in Github.    
+      -Continued to learn the python course.  
+      -Topics Learnt:  
+      -Writing Programs  
+      -Storing Calculations In Variables  
+      -**For Loops**  
+      -Introducing For Loops  
+      -Indentation  
+      -Basic For Loop Exercises  
+      -Building Up Strings  
+      -Building Up Strings Exercises 
+      -Basic Terminology  
+      -**If Statements**   
+      -Introducing If Statements   
+      -Combining Compound Statements    
+      -Understanding Programs With snoop  
+      -if and else  
+      -The Equality Operator  
+      -Introducing elif   
+      S-Other Comparison Operators  
 
