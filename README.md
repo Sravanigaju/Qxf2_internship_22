@@ -1,105 +1,129 @@
-    Day 1
+   # Day 1
     - I have Installed vs code
     - I have Installed skype
     - I Have Installed Git
     - I Have Installed Evernote
 
-    Day 2
+  # Day 2
     - Basics of Software Testing
     - I learnt some basics of software testing 
     - I picked a web application amazon and I tested the application
     - prepared for presentation  
 
-    Day 3
+   # Day 3
     - I have presented a web application which i picked for testing
     - I have started learning basics of Git and Github
 
-    Day 4
+   # Day 4
     - I have been working on the basics of Git and Github
     - I updated trello cards
     - I Learnt some basic commands in Git
 
-    Day 5
+   # Day 5
     - I updated all the day works in the git hub
     - I created linkedin profile 
     - I created resume
 
-    Day 6
+   # Day 6
     - I  have updated day5 work in the git hub
     - I  have been working on basics of python
     
-    Day 7
+   # Day 7
     - I have been learning basics of python and started practising 
     - I updated day 6 work in the git hub
     
-    Day 8
+   # Day 8
     - I updated day 7 work in the github
     - I have been practising python simple codes in vs code
     
-    DAY 9
+   # DAY 9
     - I have updated day8 work in the github
     - i have forked a repository from Qxf2
     - started working on challenges
     - cleared the challenges by fixing the errors
     
-    Day10
+   # Day10
     - I have updated day9 task in the repository
     - working on the task Explore HTML CSS and DOM
 
 
-    Day11
+   # Day11
     - I have updated day10 task in the repository
     - I have been working on the task Explore HTML CSS and DOM
 
-    Day12
+   # Day12
     - I have updated day11 task in the repository 
     - Learnt about HTML and basics of CSS and DOM by using these links
     - https://www.youtube.com/watch?v=a8W952NBZUE
     -
-    - Day13
+  # Day13
     - updated my day 12 activity in  the repository
     - reworked on the topic how to create a new branch and learnt what is main and master branch
 
-    Day14
+   # Day14
+
     - updated my day 13 activity in the repository
     - started working on the task Learn X-Path and CSS Selectors by reading Qxf2 blogs 
     - https://qxf2.com/blog/getting-started-with-xpaths/
 
-    Day15
+   # Day15
+
     - updated day14 work in the repository
-    - Learnt X-path and practised it.   
-    Day16
+    - Learnt X-path and practised it. 
+
+
+   # Day16
+
     - updated day15 work in the repository
     - worked on the topic Learn CSS Selectors.
-    Day17
+
+
+   # Day17
+
     - updated day16 work in to the repository.
     - Learnt CSS selectors by referring Qxf2 blog
     - https://qxf2.com/blog/how-to-write-css-selectors/
-    Day18
+
+
+  #  Day18
     - updated day17 work in to the repository.
     - Learnt what is virtual environment.
-    - learnt how to create virtual environment in python. 
-    Day19
+    - learnt how to create virtual environment in python.
+   
+  #  Day19
+
+
     - updated day18 work in to the repository.
     - Worked on the task Explore Selenium
     - Learnt what is selenium why it is used and 
     - why do we need automation testing.
-    Day20
+
+
+  #  Day20
+
     - updated **day19** work in to the repository
     - Learnt about **Selenium**
     - Learnt how to test a webapplications using selenium as automation tool.
-    Day21
+
+
+   # Day21
     - updated *Day20* work in to the GitHub
     - I picked a web application https://www.facebook.com/ and tried writing Scripts on this.
     - Practised writing Scripts on other web applications like https://ksrtc.in/oprs-web/.
     - I tested this https://www.facebook.com/ web application wheather login page is working or 
     not by using Selenium Scripts.
     - I tested this https://ksrtc.in/oprs-web/ application weather i can able to search  for the bus after filling the requirements to search for the bus by using Selenium
-  - **Day22**
+
+
+ # Day22
+ 
   - updated Day21 work in to the repository.
   - forked **qxf2/selenium-beginners** repository.
   - picked a differnt websites and started clearing exercises.
-  - **Day23**
+
+
+  # Day23
+
     - Updated day22 Work in to the Repository.
     - Started Learning Python from Scratch.
     - By using this link **https://futurecoder.io/course/#toc**.
@@ -112,28 +136,32 @@
     -**Introducing Variables**
     -**Using variables and Print()** 
 
-    **#Day24**
+    # Day24
 
-      -Updated Day23 work in to the Github Repository.  
-      -Made Github Repositories to _Public_   
-      -Created _Resume_ in Github.    
-      -Continued to learn the python course.  
-      -Topics Learnt:  
-      -Writing Programs  
-      -Storing Calculations In Variables  
-      -**For Loops**  
-      -Introducing For Loops  
-      -Indentation  
-      -Basic For Loop Exercises  
-      -Building Up Strings  
-      -Building Up Strings Exercises 
-      -Basic Terminology  
-      -**If Statements**   
-      -Introducing If Statements   
-      -Combining Compound Statements    
-      -Understanding Programs With snoop  
-      -if and else  
-      -The Equality Operator  
-      -Introducing elif   
-      S-Other Comparison Operators  
+    -Updated Day23 work in to the Github Repository.  
+    -Made Github Repositories to _Public_   
+    -Created _Resume_ in Github.   
+    -Continued to learn the python course.  
+    -Topics Learnt:  
+    -Writing Programs  
+    -Storing Calculations In Variables  
+    -**For Loops**  
+    -Introducing For Loops  
+    -Indentation  
+    -Basic For Loop Exercises  
+    -Building Up Strings  
+    -Building Up Strings Exercises 
+    -Basic Terminology  
+    -**If Statements**   
+    -Introducing If Statements   
+    -Combining Compound Statements    
+    -Understanding Programs With snoop  
+    -if and else  
+    -The Equality Operator  
+    -Introducing elif   
+    -Other Comparison Operators  
+
+      
+
+    
 
