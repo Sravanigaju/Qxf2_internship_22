@@ -100,39 +100,39 @@
   - forked **qxf2/selenium-beginners** repository.
   - picked a differnt websites and started clearing exercises.
   - **Day23**
-  - Updated day22 Work in to the Repository.
-  - Started Learning Python from Scratch.
-  - By using this link **https://futurecoder.io/course/#toc**.
-  - Topics Learnt:
-  - **The Shell**
-  -**Introducing The Shell**
-  -**Navigating Shell History**
-  -**Introducing srtings**
-  -**Adding Strings**
-  -**Introducing Variables**
-  -**Using variables and Print()** 
+    - Updated day22 Work in to the Repository.
+    - Started Learning Python from Scratch.
+    - By using this link **https://futurecoder.io/course/#toc**.
+    - Topics Learnt:
+    - **The Shell**
+    -**Introducing The Shell**
+    -**Navigating Shell History**
+    -**Introducing srtings**
+    -**Adding Strings**
+    -**Introducing Variables**
+    -**Using variables and Print()** 
 
-  **Day23**
-  -Updated Day23 work in to the Github Repository.
-  -Made Github Repositories to _Public_
-  -Created _Resume_ in Github.
-  -Continued to learn the python course.
-  -Topics Learnt:
-  -Writing Programs
-  -Storing Calculations In Variables
-  -**For Loops**
-  -Introducing For Loops
-  -Indentation
-  -Basic For Loop Exercises
-  -Building Up Strings
-  -Building Up Strings Exercises
-  -Basic Terminology
-  -**If Statements**
-  -Introducing If Statements
-  -Combining Compound Statements  
-  -Understanding Programs With snoop
-  -if and else
-  -The Equality Operator
-  -Introducing elif
-  -Other Comparison Operators
+    **#Day24**
+    -Updated Day23 work in to the Github Repository.
+    -Made Github Repositories to _Public_
+    -Created _Resume_ in Github.
+    -Continued to learn the python course.
+    -Topics Learnt:
+    -Writing Programs
+    -Storing Calculations In Variables
+    -**For Loops**
+    -Introducing For Loops
+    -Indentation
+    -Basic For Loop Exercises
+    -Building Up Strings
+    -Building Up Strings Exercises
+    -Basic Terminology
+    -**If Statements**
+    -Introducing If Statements
+    -Combining Compound Statements  
+    -Understanding Programs With snoop
+    -if and else
+    -The Equality Operator
+    -Introducing elif
+    -Other Comparison Operators
 
