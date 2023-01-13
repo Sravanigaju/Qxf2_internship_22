@@ -42,7 +42,7 @@
     - started working on challenges
     - cleared the challenges by fixing the errors
     
-    Day 10
+    Day10
     - I have updated day9 task in the repository
     - working on the task Explore HTML CSS and DOM
 
@@ -110,4 +110,29 @@
   -**Introducing srtings**
   -**Adding Strings**
   -**Introducing Variables**
-  -**Using variables and Print()**  
+  -**Using variables and Print()** 
+
+  **Day23**
+  -Updated Day23 work in to the Github Repository.
+  -Made Github Repositories to _Public_
+  -Created _Resume_ in Github.
+  -Continued to learn the python course.
+  -Topics Learnt:
+  -Writing Programs
+  -Storing Calculations In Variables
+  -**For Loops**
+  -Introducing For Loops
+  -Indentation
+  -Basic For Loop Exercises
+  -Building Up Strings
+  -Building Up Strings Exercises
+  -Basic Terminology
+  -**If Statements**
+  -Introducing If Statements
+  -Combining Compound Statements  
+  -Understanding Programs With snoop
+  -if and else
+  -The Equality Operator
+  -Introducing elif
+  -Other Comparison Operators
+
