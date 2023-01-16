@@ -161,6 +161,17 @@
     -Introducing elif   
     -Other Comparison Operators  
 
+    # Day25
+
+    -Updated `Day24` work in to the GitHub repository.
+    -Continued learning Python course.
+    -Topics Learnt:
+    - > Functions
+    - > Defining Function
+    - > Calling Functions Within Functions
+    - > Returning Values From Functions
+  
+
       
 
     
