@@ -186,6 +186,12 @@
   - > Defining Function
   - > Calling Functions Within Functions
   - > Returning Values From Functions
+
+ # Day26
+
+ - Updated `Day25` work in to the Github Repository.
+ - Continued Learning Python Course.
+ - Learnt *classes* and *Objects* in python.
   
  
 
