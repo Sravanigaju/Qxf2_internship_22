@@ -193,6 +193,14 @@
  - Continued Learning Python Course.
  - Learnt *classes* and *Objects* in python.
   
+
+ # Day27
+
+ - Updated `Day26` work in to the GitHub Repository.
+ - practised some excercises on what i learnt in python
+ - could not clear the all excercise so looked in to topics again.
+
+  
  
 
   
