@@ -198,7 +198,8 @@
 
  - Updated `Day26` work in to the GitHub Repository.
  - practised some excercises on what i learnt in python
- - could not clear the all excercise so looked in to topics again.
+ - cleared some of the  excercises.
+ - Which i couldnt clear looked back in to topics again
 
   
  
