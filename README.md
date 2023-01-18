@@ -200,6 +200,7 @@
  - practised some excercises on what i learnt in python
  - cleared some of the  excercises.
  - Which i couldnt clear looked back in to topics again
+ - I have practised exercises in `https://www.w3schools.com/python/python_exercises.asp`
 
   
  
