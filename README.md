@@ -202,6 +202,14 @@
  - Which i couldnt clear looked back in to topics again
  - I have practised exercises in `https://www.w3schools.com/python/python_exercises.asp`
 
+ # Day28
+
+ - Updated `Day27` Work in to the Repository.
+ - Continued Python course...
+ - Learnt *Nested Loops*  and *Boolean Operators* and
+ - Learnt *File Handling*  & *Python Modules*
+  
+
   
  
 
