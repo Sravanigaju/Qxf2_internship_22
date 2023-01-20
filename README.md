@@ -215,6 +215,7 @@
  - completed *Python Course*
  - Started learning *Pylint*
  - Learnt what is pylint? Why it is used?
+ - Found this link useful https://pylint.pycqa.org/en/latest/tutorial.html.
  - Started making Changes in files according to pylint
   
  
