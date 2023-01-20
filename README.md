@@ -209,7 +209,14 @@
  - Learnt *Nested Loops*  and *Boolean Operators* and
  - Learnt *File Handling*  & *Python Modules*
   
-
+ # Day29
+ 
+ - Updated `Day28`work in to the github Repository.
+ - completed *Python Course*
+ - Started learning *Pylint*
+ - Learnt what is pylint? Why it is used?
+ - Found this link useful https://pylint.pycqa.org/en/latest/tutorial.html.
+ - Started making Changes in files according to pylint
   
  
 
