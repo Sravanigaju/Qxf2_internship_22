@@ -217,6 +217,15 @@
  - Learnt what is pylint? Why it is used?
  - Found this link useful https://pylint.pycqa.org/en/latest/tutorial.html.
  - Started making Changes in files according to pylint
+
+ # Day30
+
+ - Updated `Day29`work in to the github repository
+ - Learnt Pylint
+ - Made Changes in files according to pylint suggestions
+ - Added files in to github Repository
+ - Started learning `Pytest`
+ - Found this link useful https://www.guru99.com/pytest-tutorial.html
   
  
 
