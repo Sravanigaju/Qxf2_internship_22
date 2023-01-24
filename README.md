@@ -227,6 +227,13 @@
  - Started learning `Pytest`
  - Found this link useful https://www.guru99.com/pytest-tutorial.html
   
+ # Day31
+
+ - Updated `Day30`Work in to the Github Repository
+ - Learnt Pytest.
+ - Made Changes in exsiting Files with `Pytest`
+ - Created a Branch added Pytest Files in to Repository.
+  
  
 
   
