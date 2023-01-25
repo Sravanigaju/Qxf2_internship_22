@@ -235,6 +235,23 @@
  - Created a Branch added Pytest Files in to Repository.
  - link to my repo  https://github.com/Sravanigaju/Qxf2_internship_22/pull/34
 
+ # Day32
+ 
+ - Updated `Day31` work in to the Github Repository
+ - Explored about Pythonanywhere
+ - Learnt about `Flask` Framework
+ -  Topics Covered:
+ -  > What is Flask & web framework
+ -  > Flask Routing
+ -  > Flask Url building
+ -  > HTTP Methods
+ -  Found Below link useful :
+ -  https://www.mygreatlearning.com/blog/everything-you-need-to-know-about-flask-for-beginners/
+
+  
+  
+  
+
   
  
 
