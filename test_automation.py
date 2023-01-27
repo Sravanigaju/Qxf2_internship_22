@@ -8,7 +8,7 @@ SCOPE:
 """
 from selenium import webdriver
 # Create an instance of Chrome WebDriver
-def test_automation(self):
+def test_automation():
     driver=webdriver.Chrome()
 # KEY POINT: The driver.get method will navigate to a page given by the URL
     driver.get("https://mlac.edmis.in/")
