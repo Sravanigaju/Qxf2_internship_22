@@ -248,7 +248,12 @@
  -  Found Below link useful :
  -  https://www.mygreatlearning.com/blog/everything-you-need-to-know-about-flask-for-beginners/
 
-  
+ # Day33
+
+ - Updated `Day32` Work in to the GitHub Repository
+ - Started Creating Resume Using HTML
+ - Created Resume & Integrated with Flask
+
   
   
 
