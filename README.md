@@ -254,6 +254,12 @@
  - Started Creating Resume Using HTML
  - Created Resume & Integrated with Flask
 
+ # Day 34
+
+ - Updated `Day33` Work in to the GitHub Repository
+ - updated Resume in pythonanywhere
+ - Started Creating Questions on Git Pytest & Selenium
+  
   
   
 
