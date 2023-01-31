@@ -254,11 +254,26 @@
  - Started Creating Resume Using HTML
  - Created Resume & Integrated with Flask
 
- # Day 34
+ # Day34
 
  - Updated `Day33` Work in to the GitHub Repository
  - updated Resume in pythonanywhere
- - Started Creating Questions on Git Pytest & Selenium
+ - Started Preparing Questions on Git Pytest & Selenium
+
+ # Day35
+
+ - Updated `Day34` Work in to the GitHub Repository
+ - Created a private repository & added Questions in to it.
+ - https://github.com/Sravanigaju/My_Questions
+ - Revised the topic Basics Of Software testing 
+ - Found this link useful: 
+ - https://www.youtube.com/watch?v=E2t5XbWwj7I&list=PLL34mf651faM_nn8uKlnwbQPw5zSh_F84
+ - Learnt about `gitignore` Found below link useful
+ - https://www.w3schools.com/git/git_ignore.asp?remote=githubs
+   
+
+
+  
   
   
   
