@@ -1,5 +1,5 @@
 
 ._pycache_
 .log
-geckodriver
+*.geckodriver
 .pytest_cache
