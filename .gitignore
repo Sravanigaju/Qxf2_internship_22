@@ -1,0 +1,5 @@
+
+._pycache_
+.log
+geckodriver
+.pytest_cache
