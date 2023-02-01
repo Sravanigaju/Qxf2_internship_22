@@ -1,0 +1,4 @@
+
+/._pycache_
+*.log
+/.pytest_cache
