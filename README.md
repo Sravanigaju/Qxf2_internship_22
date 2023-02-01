@@ -270,6 +270,19 @@
  - https://www.youtube.com/watch?v=E2t5XbWwj7I&list=PLL34mf651faM_nn8uKlnwbQPw5zSh_F84
  - Learnt about `gitignore` Found below link useful
  - https://www.w3schools.com/git/git_ignore.asp?remote=githubs
+
+ # Day36
+
+ - Updated `Day35` Work in to the GitHub Repository
+ - Learnt about Pip & How Qxf2 approaches Testing 
+ - Found these links useful
+ - https://qxf2.com/blog/testing-infrastructure-as-code-beginner/
+ - https://qxf2.com/where-start-testing
+ - https://en.wikipedia.org/wiki/Pip_(package_manager)
+ - Tried to connecting Github to  pythonanywhere hit with an error
+ - continued to fixing the error
+
+
    
 
 
