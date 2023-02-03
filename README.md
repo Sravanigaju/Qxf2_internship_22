@@ -298,6 +298,7 @@
 # Day 38
 
 - Attended Git session
+- learnt new tips
 
 
 
