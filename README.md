@@ -295,6 +295,9 @@
  - Found below link useful
  - https://www.youtube.com/watch?v=CwLrdjgsJjU
 
+# Day 38
+
+- Attended Git session
 
 
 
