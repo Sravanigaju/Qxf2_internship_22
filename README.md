@@ -305,7 +305,7 @@
 
  # Day39
   
- - Updated `Day38` work in to the Github Repository
+ - Updated `Day38 ` work in to the Github Repository
  - Attended `Git` Session
  - Learnt New Tips which helped in solving `Merge Conflicts`
  - Revised X-path and CSS selectors
