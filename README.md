@@ -275,7 +275,7 @@
 
  - Updated `Day35` Work in to the GitHub Repository
  - Learnt about Pip & How Qxf2 approaches Testing 
- - Found these links useful
+ - Found these links useful  
  - https://qxf2.com/blog/testing-infrastructure-as-code-beginner/
  - https://qxf2.com/where-start-testing
  - https://en.wikipedia.org/wiki/Pip_(package_manager)
@@ -297,6 +297,7 @@
 
  # Day38
 
+ Updating_Day39_Work
  - Updated `Day37` work in to the Github Repository
  - Revised the topics `HTML` `CSS` & `DOM`
  - Found below links useful :
@@ -311,34 +312,6 @@
  - Revised X-path and CSS selectors
  - Found Below link useful :
  - https://www.youtube.com/watch?v=U0WMFjnbb4I&t=141s
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
