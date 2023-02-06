@@ -284,7 +284,7 @@
 
  # Day37
 
- - Updated `Day36` Work in to the GitHub Repository
+ - Updated `Day36` work in to the Github Repository
  - Fixed the error & connected Github to pythonanywhere
  - Here is the link for my pythonanywhere account
  - https://sravani1709.pythonanywhere.com/
@@ -295,10 +295,51 @@
  - Found below link useful
  - https://www.youtube.com/watch?v=CwLrdjgsJjU
 
-# Day 38
+ # Day38
 
-- Attended Git session
-- learnt new tips
+ - Updated `Day37` work in to the Github Repository
+ - Revised the topics `HTML` `CSS` & `DOM`
+ - Found below links useful :
+ - https://www.youtube.com/watch?v=uhza_QbzR7o&t=2304s
+ - https://www.youtube.com/watch?v=qz0aGYrrlhU&t=812s
+
+ # Day39
+  
+ - Updated `Day38` work in to the Github Repository
+ - Attended `Git` Session
+ - Learnt New Tips which helped in solving `Merge Conflicts`
+ - Revised X-path and CSS selectors
+ - Found Below link useful :
+ - https://www.youtube.com/watch?v=U0WMFjnbb4I&t=141s
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
