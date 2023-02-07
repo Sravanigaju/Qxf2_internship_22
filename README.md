@@ -313,6 +313,18 @@
  - Found Below link useful :
  - https://www.youtube.com/watch?v=U0WMFjnbb4I&t=141s
 
+# Day40
+
+- Updated `Day39 ` work in to the Github Repository
+- Attended Selenium session
+- Explored about Client Server Architecture
+- Found Below blog useful :
+- https://intellipaat.com/blog/what-is-client-server-architecture/
+- Revised Exploratory Testing
+- Found Below links useful :
+- https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling
+- https://www.youtube.com/watch?v=Mqk2xKVigJw
+  
 
 
 
