@@ -313,7 +313,7 @@
  - Found Below link useful :
  - https://www.youtube.com/watch?v=U0WMFjnbb4I&t=141s
 
-# Day40
+ # Day40
 
 - Updated `Day39 ` work in to the Github Repository
 - Attended Selenium session
@@ -324,6 +324,17 @@
 - Found Below links useful :
 - https://www.cloudzero.com/blog/horizontal-vs-vertical-scaling
 - https://www.youtube.com/watch?v=Mqk2xKVigJw
+
+ # Day41
+
+- Updated `Day40 ` work in to the Github Repository
+- Revised the Topics `Pylint` & `Pytest`
+- Found below blogs useful :
+- https://www.geeksforgeeks.org/pylint-module-in-python/
+- https://docs.pytest.org/en/7.2.x/
+- Explored `HTTP` Methods.
+- Found this link useful https://www.tutorialspoint.com/http/http_methods.htm
+
   
 
 
