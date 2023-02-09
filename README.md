@@ -335,6 +335,13 @@
 - Explored `HTTP` Methods.
 - Found this link useful https://www.tutorialspoint.com/http/http_methods.htm
 
+ # Day42
+
+- Updated `Day41 ` work in to the Github Repository
+- Revised Python course https://futurecoder.io/
+- Started Exploring the task What is test case & How to write test cases
+- Found below link useful :
+- https://www.tutorialspoint.com/software_testing_dictionary/test_case.htm
   
 
 
