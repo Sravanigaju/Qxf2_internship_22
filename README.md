@@ -346,6 +346,8 @@
 
 - Updated `Day42 ` work in to the Github Repository.
 - Written Test cases for the Qxf2 Factorial app
+- Below link is for my test cases Written :
+- https://docs.google.com/spreadsheets/d/13b4XmVlserqKX-ufK42H0SwvxBRcnX1pVuvgh-IQDMM/edit#gid=0
 - Explored Page Object Model
 - Found link useful :https://www.geeksforgeeks.org/page-object-model-pom/
   
