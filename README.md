@@ -297,7 +297,6 @@
 
  # Day38
 
- Updating_Day39_Work
  - Updated `Day37` work in to the Github Repository
  - Revised the topics `HTML` `CSS` & `DOM`
  - Found below links useful :
@@ -342,6 +341,19 @@
 - Started Exploring the task What is test case & How to write test cases
 - Found below link useful :
 - https://www.tutorialspoint.com/software_testing_dictionary/test_case.htm
+  
+ # Day43
+
+- Updated `Day42 ` work in to the Github Repository.
+- Written Test cases for the Qxf2 Factorial app
+- Below link is for my test cases Written :
+- https://docs.google.com/spreadsheets/d/13b4XmVlserqKX-ufK42H0SwvxBRcnX1pVuvgh-IQDMM/edit#gid=0
+- Explored Page Object Model
+- Found link useful :https://www.geeksforgeeks.org/page-object-model-pom/
+  
+  
+  
+
   
 
 
