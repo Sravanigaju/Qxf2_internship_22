@@ -344,12 +344,21 @@
   
  # Day43
 
-- Updated `Day42 ` work in to the Github Repository.
-- Written Test cases for the Qxf2 Factorial app
+- Updated `Day42 ` work in to the Github Repository
+- Written Test cases for the Qxf2 Factorial app.
 - Below link is for my test cases Written :
-- https://docs.google.com/spreadsheets/d/13b4XmVlserqKX-ufK42H0SwvxBRcnX1pVuvgh-IQDMM/edit#gid=0
+- https://docs.google.com/spreadsheets/d/13b4XmVlserqKX-ufK42H0SwvxBRcnX1pVuvgh-IQDMM/edit#gid=0 
 - Explored Page Object Model
 - Found link useful :https://www.geeksforgeeks.org/page-object-model-pom/
+  
+ # Day44
+
+- Updated `Day43 ` work in to the Github Repository  
+- Explored Boundary Value Analysis
+- Found blog useful : https://www.geeksforgeeks.org/software-testing-boundary-value-analysis/
+- Explored HTTP Vs HTTPS  
+- Found this link useful : https://www.cloudflare.com/en-gb/learning/ssl/why-is-http-not-secure/
+  
   
   
   
