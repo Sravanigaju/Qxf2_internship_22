@@ -359,7 +359,14 @@
 - Explored HTTP Vs HTTPS  
 - Found this link useful : https://www.cloudflare.com/en-gb/learning/ssl/why-is-http-not-secure/
   
-  
+ # Day45
+ 
+- Updated `Day44 ` work in to the Github Repository 
+- Started Exploring `DOCKER`
+- Found these links useful :
+- https://www.youtube.com/watch?v=LJwmYuEaWBY&list=PLUDwpEzHYYLtpm24ojHwubwmMNQildHBc&index=4
+- https://www.youtube.com/watch?v=RSIstPUiEjY
+- https://www.tutorialspoint.com/docker/index.htm
   
   
 
