@@ -367,6 +367,19 @@
 - https://www.youtube.com/watch?v=LJwmYuEaWBY&list=PLUDwpEzHYYLtpm24ojHwubwmMNQildHBc&index=4
 - https://www.youtube.com/watch?v=RSIstPUiEjY
 - https://www.tutorialspoint.com/docker/index.htm
+
+ # Day46
+
+- Updated `Day45 ` work in to the Github Repository 
+- Continued Exploring `DOCKER`
+- Learnt commands :
+- > DockerHub commands
+- > Docker Container Commands
+- > Docker Image commands
+- Found this link useful : https://www.edureka.co/blog/docker-commands/
+
+  
+
   
   
 
