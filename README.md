@@ -383,6 +383,17 @@
 - Updated `Day46 ` work in to the Github Repository
 - Explored More About `DOCKER`
 - Revised Topics Which I learnt Through out the Internship
+
+ # Day48
+
+- Updated `Day47 ` work in to the Github Repository
+- Started Working on the Task given :
+- Picked a task *Setup Qxf2's Newsletter generator app locally*
+- Explored about the Task
+- Looked How to setup `DOCKER` Locally
+- Fixed the error occured while setting up docker
+   
+
   
 
 
