@@ -392,6 +392,16 @@
 - Explored about the Task
 - Looked How to setup `DOCKER` Locally
 - Fixed the error occured while setting up docker
+ 
+ # Day49
+
+ - Updated `Day48` work in to the Github Repository
+ - Found issues to the system after installation of Docker
+ - Picked a Task Explore SSO 
+ - Explored about SSO 
+ - Created a New repository and written a pager about SSO 
+ 
+
    
 
   
