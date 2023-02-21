@@ -400,7 +400,16 @@
  - Picked a Task Explore SSO 
  - Explored about SSO 
  - Created a New repository and written a pager about SSO 
- 
+
+ # Day50
+
+ - Updated `Day49` work in to the Github Repository
+ - Picked a task `Write a UI & an API test for Qxf2's practise aiml web app`
+ - Started working on that task
+ - Followed instructions  given in the repository https://github.com/qxf2/practice-testing-ai-ml#practice-testing-aiml-based-applications
+ - Hit with an error while setting it up locally 
+ - fixed the error by Googling
+ - Written test cases for the app http://127.0.0.1:6464/is-pto
 
    
 
