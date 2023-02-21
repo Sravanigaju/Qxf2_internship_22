@@ -410,10 +410,6 @@
  - Hit with an error while setting it up locally 
  - fixed the error by Googling
  - Written test cases for the app http://127.0.0.1:6464/is-pto
- 
-
-
-
 
    
 
