@@ -410,6 +410,13 @@
  - Hit with an error while setting it up locally 
  - fixed the error by Googling
  - Written test cases for the app http://127.0.0.1:6464/is-pto
+  
+ # Day51
+
+ - Updated `Day50` work in to the Github Repository
+ - Written UI Automation for the app http://127.0.0.1:6464/is-pto
+ - Created a private Repository.
+ - link to the repository https://github.com/Sravanigaju/Practice_Testing_AI-ML
 
    
 
