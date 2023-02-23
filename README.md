@@ -418,12 +418,12 @@
  - Created a private Repository.
  - link to the repository https://github.com/Sravanigaju/Practice_Testing_AI-ML
 
-   
-
-  
-
-
-  
+ # Day52
+ 
+ - Updated `Day51` work in to the Github Repository
+ - Explored about API 
+ - Looked up how to find endpoints by using chrome dev tools
+ - written API test for the app http://127.0.0.1:6464/is-pto
 
   
   
