@@ -425,6 +425,13 @@
  - Looked up how to find endpoints by using chrome dev tools
  - written API test for the app http://127.0.0.1:6464/is-pto
 
+ # Day53
+
+ - Updated `Day52` work in to the Github Repository
+ - Started setting up my test trigger via `CI`
+ - Hit with the errors while triggering via `CI`
+ - Continued fixing the errors
+
   
   
 
