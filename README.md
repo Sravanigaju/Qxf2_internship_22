@@ -438,6 +438,7 @@
  - Fixed th error by looking how to Make Selenium Work on Github Actions
  - Picked a task Add a challenge to Qxf2's wtfiswronghere repo
  - Added Challenge_14 to the repo and created `PR`
+ - Here is link for the PR  https://github.com/qxf2/wtfiswronghere/pull/69
   
 
   
