@@ -425,6 +425,22 @@
  - Looked up how to find endpoints by using chrome dev tools
  - written API test for the app http://127.0.0.1:6464/is-pto
 
+ # Day53
+
+ - Updated `Day52` work in to the Github Repository
+ - Started setting up my test trigger via `CI`
+ - Hit with the errors while triggering via `CI`
+ - Continued fixing the errors
+
+ # Day54
+
+ - Updated `Day53` work in to the Github Repository
+ - Fixed th error by looking how to Make Selenium Work on Github Actions
+ - Picked a task Add a challenge to Qxf2's wtfiswronghere repo
+ - Added Challenge_14 to the repo and created `PR`
+ - Here is link for the PR  https://github.com/qxf2/wtfiswronghere/pull/69
+  
+
   
   
 
